@@ -11,5 +11,8 @@ React Excercise 3:(PASSWORD MATCH CHECKER)
 React Exercise 4: (ALPHANUMERIC PASSWORD CHECK)
   Source Code: https://codesandbox.io/s/alphanumeric-password-u1cjw?file=/src/App.js
 
-React Execise 5: (FIGMA TEXT APP)
+React Exercise 5: (FIGMA TEXT APP)
   Source Code: https://codesandbox.io/s/figma-fw00h?file=/src/App.js
+
+React Exercise 6: (TODO APP)
+  Source Code: https://github.com/SurajGupta07/React-TODO
