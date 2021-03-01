@@ -1,1 +1,1 @@
-# react-practice-exercises
+# React Practice Exercises
